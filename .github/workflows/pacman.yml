@@ -1,33 +1,54 @@
-name: Generate pacman animation
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+    with:
+      persist-credentials: true
+      fetch-depth: 0
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  - name: Generate pacman-contribution-graph.svg
+    uses: abozanona/pacman-contribution-graph@main
+    with:
+      github_user_name: ${{ github.repository_owner }}
 
-  workflow_dispatch:
+  - name: Validate generated SVG (sanitización y animación)
+    run: |
+      SVG="dist/pacman-contribution-graph.svg"
+      echo "Comprobando existencia de $SVG ..."
+      if [ ! -f "$SVG" ]; then
+        echo "ERROR: No se encontró $SVG. La acción puede generar en otra ruta. Lista dist/:"
+        ls -la dist || true
+        exit 1
+      fi
 
-  push:
-    branches:
-    - main
+      echo "Comprobando que no contenga <script> (GitHub lo eliminará y romperá animaciones JS)..."
+      if grep -i -q "<script" "$SVG"; then
+        echo "ERROR: El SVG contiene <script>. GitHub lo sanitiza y scripts son removidos — la animación JS no funcionará en README."
+        exit 1
+      fi
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+      echo "Buscando indicios de animación (SMIL o CSS) en el SVG..."
+      if grep -E -q "<animate|<animateTransform|@keyframes|animation:" "$SVG"; then
+        echo "OK: Se detectaron elementos de animación (SMIL o CSS). Buenas probabilidades de que la animación funcione."
+      else
+        echo "WARNING: No se detectaron elementos SMIL/CSS. El SVG puede quedar estático en el README (o depender de JS eliminado)."
+      fi
 
-    steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+  - name: Copy generated SVG into assets/
+    run: |
+      mkdir -p assets
+      cp -f dist/pacman-contribution-graph.svg assets/pacman-contribution-graph.svg
+      echo "Copied to assets/pacman-contribution-graph.svg"
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  - name: Commit and push generated SVG (solo si hay cambios)
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add assets/pacman-contribution-graph.svg
+      if git diff --cached --quiet; then
+        echo "No hay cambios para commitear."
+        exit 0
+      fi
+      git commit -m "chore: update pacman contribution graph [skip ci]"
+      git push origin HEAD:main

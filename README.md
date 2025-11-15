@@ -2,7 +2,8 @@
 
 ###
 
-# 👋 ¡Hola Mundo! Bievenido a mi perfil de GitHub, ¿estás listo? 🚀
+# 👋 ¡Hola Mundo! 
+# Bievenido a mi perfil de GitHub, ¿estás listo? 🚀
 
 ###
 
@@ -11,6 +12,9 @@
 ###
 
 # 💻 Tech Stack:
+
+My actual knowledge isn't good at all but everyday I try to learn a new thing about what I like, take a look a little bit of what I do or what I like :)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white)
 
 # 📊 GitHub Stats:

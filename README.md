@@ -1,12 +1,8 @@
 <br clear="both">
 
-<h2 align="center">¡Hola! Bienvenido a mi perfil de GitHub<br>¿Estás preparado para esto? 🚀</h2>
-
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+# 👋 ¡Hola Mundo! Bievenido a mi perfil de GitHub, ¿estás listo? 🚀
 
 ###
 
@@ -14,15 +10,10 @@
 
 ###
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Kat404/Kat404/main/assets/pacman-contribution-graph.svg" alt="Pacman contributions graph" />
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Kat's%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kat404&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kat404&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kat404&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

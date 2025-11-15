@@ -1,9 +1,0 @@
-            - name: generate-pacman-game-from-github-contribution-grid
-  # You may pin to the exact commit or the version.
-  # uses: abozanona/pacman-contribution-graph@15e2d8e093cc9c76cb88ffc850328528cb90ecfd
-  uses: abozanona/pacman-contribution-graph@2.3.0
-  with:
-    # github user name
-    github_user_name: Kat404
-    # github token used to fetch the contribution calendar. Default to the action token if empty.
-    github_token: # optional, default is ${{ github.token }}

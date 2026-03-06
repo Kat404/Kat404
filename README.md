@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Soy un joven estudiante de Sistemas Computacionales, apasionado de los sistemas operativos, sus componentes y funcionamiento.<br>Me gusta la optimización pero sobre todo el hardening y tomar medidas para mejorar la privacidad y la seguridad.<br><br>My English level isn't pretty good but I try to translate all my repositories to English (and Spanish too, obviously), my English level is probably B1.<br><br>Nota: Привет, меня зовут Хосе, я дванатсь лет, сейчас я изучаю русский на Дуолинго, я хочу learn как говорить по-русский и по-английский, спасибо большое! ))))</p>
+<p align="left">Soy un joven estudiante de Sistemas Computacionales, apasionado de los sistemas operativos, sus componentes y funcionamiento.<br>Me gusta la optimización pero sobre todo el hardening y tomar medidas para mejorar la privacidad y la seguridad.<br><br>My English level isn't pretty good but I try to translate all my repositories to English (and Spanish too, obviously), my English level is probably B1.<br><br>Nota: Привет, меня зовут Хосе, я двадцать лет, сейчас я изучаю русский на Дуолинго, я хочу learn как говорить по-русский и по-английский, спасибо большое! ))))</p>
 
 ###
 

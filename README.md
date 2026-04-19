@@ -1,23 +1,61 @@
-<br clear="both">
+<h1 align="center">👋 ¡Hola Mundo! / Hi there! / Привет!</h1>
+<h3 align="center">Are you ready? 🚀</h3>
 
 ###
 
-# 👋 ¡Hola Mundo! 
-# Bievenido a mi perfil de GitHub, ¿estás listo? 🚀
+<div align="center">
+  <p>
+    Soy estudiante de Ingeniería en Sistemas Computacionales y un gran entusiasta del mundo <b>Open Source</b>, la privacidad y el <i>hardening</i> de sistemas. Disfruto construyendo entornos seguros y optimizados desde mi terminal, y actualmente estoy expandiendo mis conocimientos hacia el desarrollo frontend moderno, priorizando frameworks ligeros y la UI/UX.
+  </p>
+  <p>
+    Presidente del capítulo estudiantil del IEEE Computer Society local | FOSS Advocate | Terminal-centric workflow
+  </p>
+  <p>
+    🌍 <b>Languages:</b> Español (Native) | English (B1 - <i>I try to translate all my repos to practice!</i>) | Русский (<i>Изучаю основы, хочу говорить по-русски! ))</i> )
+  </p>
+</div>
 
 ###
 
-<p align="left">Soy un joven estudiante de Sistemas Computacionales, apasionado de los sistemas operativos, sus componentes y funcionamiento.<br>Me gusta la optimización pero sobre todo el hardening y tomar medidas para mejorar la privacidad y la seguridad.<br><br>My English level isn't pretty good but I try to translate all my repositories to English (and Spanish too, obviously), my English level is probably B1.<br><br>Nota: Привет, меня зовут Хосе, я двадцать лет, сейчас я изучаю русский на Дуолинго, я хочу learn как говорить по-русский и по-английский, спасибо большое! ))))</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+</div>
 
 ###
 
-# 💻 Tech Stack:
+<div align="center">
+  <a href="https://www.linkedin.com/in/josé-luís-ramírez-sánchez-9131b6360" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=xocel404.04&logo=signal&label=Signal&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
+  <img src="https://img.shields.io/static/v1?message=kat_1444&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-My actual knowledge isn't good at all but everyday I try to learn a new thing about what I like, take a look a little bit of what I do or what I like :)
+###
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kat404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kat404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kat404&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kat404&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kat404&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kat404/Kat404/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kat404/Kat404/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kat404/Kat404/output/pacman-contribution-graph.svg">
+</picture>
+
+###

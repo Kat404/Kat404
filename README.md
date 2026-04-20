@@ -5,13 +5,16 @@
 
 <div align="center">
   <p>
-    Soy un estudiante de Ingeniería en Sistemas Computacionales y un gran entusiasta del mundo <b>Open Source</b>, la privacidad y el <i>hardening</i> de sistemas. Disfruto construyendo entornos seguros y optimizados desde mi terminal, y actualmente estoy expandiendo mis conocimientos hacia el desarrollo frontend moderno, priorizando frameworks ligeros y la UI/UX.
+    Soy un estudiante de Ingeniería en Sistemas Computacionales y un gran entusiasta del mundo <b>Open Source</b>, la privacidad y el <i>hardening</i> de sistemas. Disfruto construyendo entornos seguros y optimizados desde mi terminal, actualmente estoy expandiendo mis conocimientos hacia el desarrollo frontend moderno, dominando las bases lógicas y de diseño priorizando frameworks ligeros y rápidos para proporcionar la máxima UI/UX.
   </p>
   <p>
-    Presidente del capítulo estudiantil IEEE Computer Society ITM | FOSS Advocate | Terminal-centric workflow
+    Presidente IEEE Computer Society ITM | FOSS Advocate | Terminal-centric workflow
   </p>
   <p>
-    🌍 <b>Languages:</b> Español (Native) | English (B1 - <i>I try to translate all my repos to practice!</i>) | Русский (<i>Изучаю основы, хочу говорить по-русски! ))</i> )
+    🌍 <b>Languages:</b><br/>
+    <code>🇪🇸 Español</code> (Native)<br/>
+    <code>🇬🇧 English</code> (B1 - <i>I try to translate all my repos to practice!</i>)<br/>
+    <code>🇷🇺 Русский</code> (Я хочу говорить по-русски!)
   </p>
 </div>
 
@@ -24,11 +27,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="60" alt="arch linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
@@ -61,8 +66,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kat404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kat404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kat404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kat404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###

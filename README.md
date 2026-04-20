@@ -12,9 +12,9 @@
   </p>
   <p>
     🌍 <b>Languages:</b><br/>
-    <code>🇪🇸 Español</code> (Native)<br/>
+    <code>🇲🇽 Español</code> (Native)<br/>
     <code>🇬🇧 English</code> (B1 - <i>I try to translate all my repos to practice!</i>)<br/>
-    <code>🇷🇺 Русский</code> (Я хочу говорить по-русски!)
+    <code>🇷🇺 Русский</code> (Beginner [A0] - Я хочу говорить по-русски!)
   </p>
 </div>
 

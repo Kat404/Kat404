@@ -5,10 +5,10 @@
 
 <div align="center">
   <p>
-    Soy estudiante de Ingeniería en Sistemas Computacionales y un gran entusiasta del mundo <b>Open Source</b>, la privacidad y el <i>hardening</i> de sistemas. Disfruto construyendo entornos seguros y optimizados desde mi terminal, y actualmente estoy expandiendo mis conocimientos hacia el desarrollo frontend moderno, priorizando frameworks ligeros y la UI/UX.
+    Soy un estudiante de Ingeniería en Sistemas Computacionales y un gran entusiasta del mundo <b>Open Source</b>, la privacidad y el <i>hardening</i> de sistemas. Disfruto construyendo entornos seguros y optimizados desde mi terminal, y actualmente estoy expandiendo mis conocimientos hacia el desarrollo frontend moderno, priorizando frameworks ligeros y la UI/UX.
   </p>
   <p>
-    Presidente del capítulo estudiantil del IEEE Computer Society local | FOSS Advocate | Terminal-centric workflow
+    Presidente del capítulo estudiantil del IEEE Computer Society ITM | FOSS Advocate | Terminal-centric workflow
   </p>
   <p>
     🌍 <b>Languages:</b> Español (Native) | English (B1 - <i>I try to translate all my repos to practice!</i>) | Русский (<i>Изучаю основы, хочу говорить по-русски! ))</i> )
@@ -35,12 +35,27 @@
 
 ###
 
+<h3 align="center">Get in Touch / Contacto</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/josé-luís-ramírez-sánchez-9131b6360" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/josé-luís-ramírez-sánchez-9131b6360" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="Linkedin Logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=xocel404.04&logo=signal&label=Signal&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
-  <img src="https://img.shields.io/static/v1?message=kat_1444&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img width="15" />
+  <a href="https://signal.me/#p/xocel404.04" target="_blank" title="Signal">
+    <img src="https://cdn.simpleicons.org/signal/3A76F0" height="50" alt="Signal Logo" />
+  </a>
+  <img width="15" />
+  <a href="https://smp9.simplex.im/a#rMR3mX4XndQhxJgJ_qcma1NKD_uQ0PisFCCe_tAmXTw" target="_blank" title="SimpleX Chat">
+    <img src="https://cdn.simpleicons.org/simplexchat/000000" height="50" alt="SimpleX Logo" />
+  </a>
+  <img width="15" />
+  <a href="mailto:xocemyst@duck.com" title="Tutanota">
+    <img src="https://cdn.simpleicons.org/tutanota/7E0000" height="50" alt="Tutanota Logo" />
+  </a>
+  <img width="15" />
+  <a href="https://discordapp.com/users/kat_1444" target="_blank" title="Discord: kat_1444">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="Discord Logo" />
+  </a>
 </div>
 
 ###

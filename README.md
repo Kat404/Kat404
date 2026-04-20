@@ -8,7 +8,7 @@
     Soy un estudiante de Ingeniería en Sistemas Computacionales y un gran entusiasta del mundo <b>Open Source</b>, la privacidad y el <i>hardening</i> de sistemas. Disfruto construyendo entornos seguros y optimizados desde mi terminal, y actualmente estoy expandiendo mis conocimientos hacia el desarrollo frontend moderno, priorizando frameworks ligeros y la UI/UX.
   </p>
   <p>
-    Presidente del capítulo estudiantil del IEEE Computer Society ITM | FOSS Advocate | Terminal-centric workflow
+    Presidente del capítulo estudiantil IEEE Computer Society ITM | FOSS Advocate | Terminal-centric workflow
   </p>
   <p>
     🌍 <b>Languages:</b> Español (Native) | English (B1 - <i>I try to translate all my repos to practice!</i>) | Русский (<i>Изучаю основы, хочу говорить по-русски! ))</i> )
@@ -35,22 +35,22 @@
 
 ###
 
-<h3 align="center">Get in Touch / Contacto</h3>
+<h3 align="center">Get in Touch / Contacto 📩</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/josé-luís-ramírez-sánchez-9131b6360" target="_blank" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="Linkedin Logo"  />
   </a>
   <img width="15" />
   <a href="https://signal.me/#p/xocel404.04" target="_blank" title="Signal">
-    <img src="https://cdn.simpleicons.org/signal/3A76F0" height="50" alt="Signal Logo" />
+    <img src="https://github.com/Kat404/Kat404/blob/b33c2444945e106e84e043f587d0458823f024a3/signal.png" height="50" alt="Signal Logo" />
   </a>
   <img width="15" />
   <a href="https://smp9.simplex.im/a#rMR3mX4XndQhxJgJ_qcma1NKD_uQ0PisFCCe_tAmXTw" target="_blank" title="SimpleX Chat">
-    <img src="https://cdn.simpleicons.org/simplexchat/000000" height="50" alt="SimpleX Logo" />
+    <img src="https://github.com/Kat404/Kat404/blob/b33c2444945e106e84e043f587d0458823f024a3/simplex.webp" height="50" alt="SimpleX Logo" />
   </a>
   <img width="15" />
   <a href="mailto:xocemyst@duck.com" title="Tutanota">
-    <img src="https://cdn.simpleicons.org/tutanota/7E0000" height="50" alt="Tutanota Logo" />
+    <img src="https://github.com/Kat404/Kat404/blob/b33c2444945e106e84e043f587d0458823f024a3/tutanota.png" height="50" alt="Tutanota Logo" />
   </a>
   <img width="15" />
   <a href="https://discordapp.com/users/kat_1444" target="_blank" title="Discord: kat_1444">

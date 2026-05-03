@@ -67,17 +67,8 @@
 
 ###
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kat404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_mocha&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kat404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHd4a2dqa2lzcXE1MWd6ZXZhMW93dzFkaDUyZWs1YTl6bDdnN2gyZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oge7vHUPuyTZtOJWnQ/giphy.gif" width="250" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kat404/Kat404/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kat404/Kat404/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kat404/Kat404/output/pacman-contribution-graph.svg">
-</picture>
-
-###

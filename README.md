@@ -21,23 +21,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" title="CSS3"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo"  />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo" title="Astro" />
   <img width="12" />
   <a href="https://helix-editor.com/" target="_blank" title="Helix">
-    <img src="https://github.com/Kat404/Kat404/blob/f5990a2790515a3c252247d6efdcac5c1826a6aa/helix-editor-logo.png" width="60" alt="helix editor logo"  />
+    <img src="https://github.com/Kat404/Kat404/blob/f5990a2790515a3c252247d6efdcac5c1826a6aa/helix-editor-logo.png" width="60" alt="helix editor logo" title="Helix Editor" />
   </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" title="PostgreSQL"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img src="https://github.com/Kat404/Kat404/blob/1c35c159d6fb07eb430d4d6f65b293add2b7e040/tux-cs.svg" height="60" alt="linux cs logo" title="Tux CS"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="60" alt="arch linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="60" alt="arch linux logo" title="Arch Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" title="Git" />
 </div>
 
 ###

@@ -27,7 +27,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="tailwindcss logo"  />
+  <a href="https://helix-editor.com/" target="_blank" title="Helix">
+    <img src="https://github.com/Kat404/Kat404/blob/f5990a2790515a3c252247d6efdcac5c1826a6aa/helix-editor-logo.png" width="60" alt="helix editor logo"  />
+  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />

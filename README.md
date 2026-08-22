@@ -21,15 +21,13 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" title="HTML5" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" title="CSS3"  />
-  <img width="2" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo" title="Astro" />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="60" alt="svelte logo" title="Svelte5" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" title="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="65" alt="zig logo" title="Zig" />
   <img width="10" />
   <a href="https://helix-editor.com/" target="_blank" title="Helix">
     <img src="https://github.com/Kat404/Kat404/blob/f5990a2790515a3c252247d6efdcac5c1826a6aa/helix-editor-logo.png" width="60" alt="helix editor logo" title="Helix Editor" />

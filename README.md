@@ -50,10 +50,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" alt="Linkedin Logo"  />
   </a>
   <img width="15" />
-  <a href="https://signal.me/#p/xocel404.04" target="_blank" title="Signal">
-    <img src="https://github.com/Kat404/Kat404/blob/b33c2444945e106e84e043f587d0458823f024a3/signal.png" height="50" alt="Signal Logo" />
-  </a>
-  <img width="15" />
   <a href="https://smp9.simplex.im/a#rMR3mX4XndQhxJgJ_qcma1NKD_uQ0PisFCCe_tAmXTw" target="_blank" title="SimpleX Chat">
     <img src="https://github.com/Kat404/Kat404/blob/b33c2444945e106e84e043f587d0458823f024a3/simplex.webp" height="50" alt="SimpleX Logo" />
   </a>
